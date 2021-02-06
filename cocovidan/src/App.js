@@ -10,7 +10,7 @@ import InfoBox from "./InfoBox";
 import Map from "./Map";
 import Table from "./Table";
 import LineGraph from "./LineGraph";
-import "./App.css";
+import "./styles/App.css";
 import { prettyPrintStat, sortData } from "./util";
 import "leaflet/dist/leaflet.css";
 
